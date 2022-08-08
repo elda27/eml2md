@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "eml2md"
+version = "0.1.0"
+description = "Convert from eml file to markdown text."
+authors = ["elda27 <kaz.birdstick@gmail.com>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.6.0"
+mypy = "^0.971"
+pytest = "^7.1.2"
+pytest-cov = "^3.0.0"
+bandit = "^1.7.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
