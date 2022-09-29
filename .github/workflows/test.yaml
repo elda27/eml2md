@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.CODECOV_TOKEN }}
           files: ./coverage.xml
           flags: unittests
-          name: async_rundeck
+          name: eml2md
           fail_ci_if_error: true
           verbose: true
       - name: test
