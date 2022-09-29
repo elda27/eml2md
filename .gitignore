@@ -1,3 +1,7 @@
 .venv
+.mypy_cache
 .pytest_cache
 __pycache__
+.coverage
+dist
+build

@@ -1,0 +1,50 @@
+MIME-Version: 1.0
+Date: Tue, 9 Aug 2022 23:47:29 +0900
+References: <CAFuc47JSRkzwVk_+HJf0Wcke+GwjP9pHKQaFNXGkYZqWkCKfZw@mail.example.com>
+In-Reply-To: <CAFuc47JSRkzwVk_+HJf0Wcke+GwjP9pHKQaFNXGkYZqWkCKfZw@mail.example.com>
+Bcc: author1@example.com, =?UTF-8?B?5LqV54KJ5rOi6bOw5oOg5Zyf?= <author2@example.com>
+Message-ID: <CAFOgkZS5NFMCuqjFdcqZSeQ9wPwesGtsLUEe62OYDwNnAoiDvg@mail.example.com>
+Subject: Re: Test
+From: =?UTF-8?B?5LqV54KJ5rOi6bOw5oOg5Zyf?= <author2@example.com>
+To: =?UTF-8?B?5LqV54KJ5rOi6bOw5oOg5Zyf?= <author1@example.com>, 
+	=?UTF-8?B?5LqV54KJ5rOi6bOw5oOg5Zyf?= <author2@example.com>
+Cc: =?UTF-8?B?5LqV54KJ5rOi6bOw5oOg5Zyf?= <author2@example.com>, 
+	author1@example.com
+Content-Type: multipart/alternative; boundary="0000000000000079a005e5d00393"
+
+--0000000000000079a005e5d00393
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+test blanks
+
+2022=E5=B9=B48=E6=9C=889=E6=97=A5(=E7=81=AB) 23:47 =E4=BA=95=E7=82=89=E6=B3=A2=E9=B3=B0=E6=83=A0=E5=9C=9F <author1@example.com>:
+
+>Quote message
+>
+>
+> dsadbubfdus[\
+> dsadinadioa
+>
+> dsnaidnai
+>
+> dsnuandi
+>
+>
+
+--0000000000000079a005e5d00393
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">test blanks</div><br><div class=3D"gmail_quote"><div dir=
+=3D"ltr" class=3D"gmail_attr">2022=E5=B9=B48=E6=9C=889=E6=97=A5(=E7=81=AB) =
+23:47 =E4=BA=95=E7=82=89=E6=B3=A2=E9=B3=B0=E6=83=A0=E5=9C=9F &lt;<a href=3D"mailto:kaz.birdst=
+ick@example.com">author1@example.com</a>&gt;:<br></div><blockquote class=
+=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rg=
+b(204,204,204);padding-left:1ex"><div dir=3D"ltr">mesage to complicatge=C2=
+=A0<div><br></div><div><br></div><div>dsadbubfdus[\</div><div>dsadinadioa</=
+div><div><br></div><div>dsnaidnai</div><div><br></div><div>dsnuandi</div><d=
+iv><br></div></div>
+</blockquote></div>
+
+--0000000000000079a005e5d00393--
