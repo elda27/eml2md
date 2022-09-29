@@ -1,5 +1,7 @@
 # eml2md
 
+[![codecov](https://codecov.io/gh/elda27/eml2md/branch/main/graph/badge.svg?token=Ck30XyeFvG)](https://codecov.io/gh/elda27/eml2md)
+
 `eml2md` is a command line tool for converting from eml to markdown.
 
 ## Example
