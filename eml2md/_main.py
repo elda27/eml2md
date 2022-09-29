@@ -13,7 +13,7 @@ class Args(NamedTuple):
 
 
 def main():
-    parser = ArgumentParser()
+    parser = ArgumentParser("eml2md")
     parser.add_argument("-i", "--input", type=Path, required=True, help="Input file")
     parser.add_argument("-o", "--output", type=Path, required=True, help="Output file")
     parser.add_argument(
