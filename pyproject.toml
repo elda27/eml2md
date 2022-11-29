@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "eml2md"
-version = "0.1.1"
+version = "0.1.2"
 description = "Convert from eml file to markdown text."
 authors = ["elda27 <kaz.birdstick@gmail.com>"]
 license = "Apache 2.0"
