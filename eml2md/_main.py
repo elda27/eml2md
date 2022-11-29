@@ -2,8 +2,10 @@ from argparse import ArgumentParser
 from pathlib import Path
 from secrets import choice
 from typing import NamedTuple
-from eml2md.markdown import format_markdown
+
+from eml2md._version import __version__
 from eml2md.eml import parse_eml
+from eml2md.markdown import format_markdown
 
 
 class Args(NamedTuple):
@@ -24,6 +26,9 @@ def main():
         default="simple",
         required=False,
         help="Format of output markdown",
+    )
+    parser.add_argument(
+        "-v", "--version", action="version", version=f"%(prog)s {__version__}"
     )
     args: Args = parser.parse_args()
 
