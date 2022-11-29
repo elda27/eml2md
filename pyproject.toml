@@ -1,10 +1,14 @@
 [tool.poetry]
 name = "eml2md"
-version = "0.1.0"
+version = "0.1.1"
 description = "Convert from eml file to markdown text."
 authors = ["elda27 <kaz.birdstick@gmail.com>"]
 license = "Apache 2.0"
 readme = "README.md"
+repository = "https://github.com/elda27/eml2md"
+
+[tool.poetry.scripts]
+eml2md = "eml2md._main:main"
 
 [tool.poetry.dependencies]
 python = "^3.8,<3.11"
